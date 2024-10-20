@@ -129,7 +129,10 @@ Key components of data understanding include **feature analysis**, **correlation
 ### Key Steps:
 1. **Feature Distribution Over Classes**:
     - Analyze how features are distributed across different classes in the dataset. This helps identify imbalances or trends that may influence the model's learning process.
-    
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/94c87a36-7f19-47e2-a40d-4a2378c2cb57" alt="Image" width="400">
+</div>
+
 2. **Feature Correlation**:
     - Examine the relationships between features using correlation matrices. Understanding how features are related can help you eliminate redundant information and improve model efficiency.
     
