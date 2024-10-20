@@ -108,9 +108,9 @@ Mid-level processing includes the following steps:
     
 5. **Multi-Modal Fusion**:
     - Combine data from different sources (e.g., combining video, motion, and physiological data) to enhance model robustness and accuracy. Multi-modal fusion is performed in early, late, and hybrid stages of processing.
-    - Early fusion used methods: Concatenation Early Stage KNN Imputation Fusion and PCA Early Stage KNN Imputation Fusion.
-    - Late fusion used methods: Weighted Averaging Late Stage Fusion and Majority Voting Late Stage Fusion.
-    - Hybrid fusion used methods: PCA and LDA Hybrid Fusion, Attention-Weighted XGBoost Hybrid Fusion, and CNN and LSTM Hybrid Fusion.
+    - **Early fusion used methods**: Concatenation Early Stage KNN Imputation Fusion and PCA Early Stage KNN Imputation Fusion.
+    - **Late fusion used methods**: Weighted Averaging Late Stage Fusion and Majority Voting Late Stage Fusion.
+    - **Hybrid fusion used methods**: PCA and LDA Hybrid Fusion, Attention-Weighted XGBoost Hybrid Fusion, and CNN and LSTM Hybrid Fusion.
 
 <div align="center">
     <img src="https://github.com/user-attachments/assets/8bc139c1-3eea-4c39-ab29-bf3f3eeaca09" alt="Multimodal Fusion" width="400">
