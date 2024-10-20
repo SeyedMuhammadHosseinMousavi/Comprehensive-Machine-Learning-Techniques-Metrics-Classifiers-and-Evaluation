@@ -38,7 +38,7 @@ The project is broken down into the following main chapters:
     - Explore advanced validation techniques such as K-Fold Cross-Validation, Leave-One-Out, Bootstrapping, and nested cross-validation.
 
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/6fd80784-cfc1-479b-9c28-520548b5589d" alt="Image" width="800">
+    <img src="https://github.com/user-attachments/assets/6fd80784-cfc1-479b-9c28-520548b5589d" alt="Image" width="600">
 </div>
 
 ---
