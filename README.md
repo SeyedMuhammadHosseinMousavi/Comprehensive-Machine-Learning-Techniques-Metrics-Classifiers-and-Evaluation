@@ -146,7 +146,9 @@ Key components of data understanding include **feature analysis**, **correlation
 
 4. **Feature Importance**:
     - Utilize techniques such as **SHAP (SHapley Additive exPlanations)** or **LIME (Local Interpretable Model-agnostic Explanations)** to assess the importance of individual features. Feature importance provides insights into which features contribute the most to model predictions.
-    
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/321e618a-661b-402f-bd4a-3312e676c983" alt="Image" width="400">
+</div>
 5. **Class Distribution Ratio**:
     - Check the distribution of class labels to ensure the dataset is balanced. Imbalanced data can cause bias in model predictions, so understanding class distribution is critical for fair modeling.
     
