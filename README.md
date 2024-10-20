@@ -149,12 +149,28 @@ Key components of data understanding include **feature analysis**, **correlation
 <div align="center">
     <img src="https://github.com/user-attachments/assets/321e618a-661b-402f-bd4a-3312e676c983" alt="Image" width="400">
 </div>
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/b603fea2-9c22-490c-9060-1ad3a20a8219" alt="Image" width="400">
+</div>
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/f45d0406-7160-411c-b1ba-66523e367ead" alt="Image" width="400">
+</div>
+
+
 5. **Class Distribution Ratio**:
     - Check the distribution of class labels to ensure the dataset is balanced. Imbalanced data can cause bias in model predictions, so understanding class distribution is critical for fair modeling.
+
+
+
     
 6. **PCA and t-SNE Feature Plots**:
     - Use **Principal Component Analysis (PCA)** and **t-distributed Stochastic Neighbor Embedding (t-SNE)** to reduce the dimensionality of the dataset and visualize high-dimensional data in 2D or 3D. These visualizations provide a deeper understanding of data clustering and separability between classes.
-    
+
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/0d920cfc-3067-48ba-988e-4c694beb82c7" alt="Image" width="400">
+</div>
+
+
 7. **The Baseline and The Ground Truth**:
     - Establish a baseline model and compare the model’s predictions against the ground truth. This helps in evaluating the performance of the model and understanding the nature of prediction errors.
 
