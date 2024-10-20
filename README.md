@@ -100,6 +100,7 @@ Mid-level processing includes the following steps:
     
 5. **Multi-Modal Fusion**:
     - Combine data from different sources (e.g., combining video, motion, and physiological data) to enhance model robustness and accuracy. Multi-modal fusion can be performed in both early and late stages of processing.
+![Multimodal Fusion ](https://github.com/user-attachments/assets/8bc139c1-3eea-4c39-ab29-bf3f3eeaca09)
 
 ### Importance of Mid-Level Processing:
 
