@@ -63,7 +63,7 @@ The chapter covers the following key steps:
 5. **Normalization**:
     - Scaling features to a specific range (typically [0, 1]) to ensure consistent input values for machine learning models.
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/130cc52b-5715-43b6-8efa-7b29f233daf7" alt="Image" width="400">
+    <img src="https://github.com/user-attachments/assets/130cc52b-5715-43b6-8efa-7b29f233daf7" alt="Image" width="200">
 </div>
 
 6. **Standardization**:
