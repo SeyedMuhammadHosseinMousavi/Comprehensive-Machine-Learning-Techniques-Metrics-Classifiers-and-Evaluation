@@ -1,4 +1,4 @@
-# Comprehensive-Machine-Learning-Techniques-Metrics-Classifiers-and-Evaluation (on body motion data/modality)
+# Comprehensive-Machine-Learning-Techniques-Metrics-Classifiers-and-Evaluation (on emotional body motion data/modality)
 ## Overview 
 
 This repository provides a structured approach to implementing and understanding various **machine learning techniques** across multiple stages of the ML pipeline. It includes essential aspects such as **data preprocessing**, **feature extraction**, **classifier implementation**, and **evaluation metrics**. Modalities are body motion or body tracking data plus Galvanic Skin Response (GSR) data. But, GSR is only used for multi-modal fusion task.
@@ -107,7 +107,11 @@ Mid-level processing includes the following steps:
     - Reduce the number of features or variables in your dataset while retaining important information. Techniques such as **Principal Component Analysis (PCA)** or **t-SNE** help visualize high-dimensional data and speed up the model training process.
     
 5. **Multi-Modal Fusion**:
-    - Combine data from different sources (e.g., combining video, motion, and physiological data) to enhance model robustness and accuracy. Multi-modal fusion can be performed in both early and late stages of processing.
+    - Combine data from different sources (e.g., combining video, motion, and physiological data) to enhance model robustness and accuracy. Multi-modal fusion is performed in early, late, and hybrid stages of processing.
+    - Early fusion used methods: Concatenation Early Stage KNN Imputation Fusion and PCA Early Stage KNN Imputation Fusion.
+    - Late fusion used methods: Weighted Averaging Late Stage Fusion and Majority Voting Late Stage Fusion.
+    - Hybrid fusion used methods: PCA and LDA Hybrid Fusion, Attention-Weighted XGBoost Hybrid Fusion, and CNN and LSTM Hybrid Fusion.
+
 <div align="center">
     <img src="https://github.com/user-attachments/assets/8bc139c1-3eea-4c39-ab29-bf3f3eeaca09" alt="Multimodal Fusion" width="400">
 </div>
