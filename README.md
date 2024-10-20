@@ -62,7 +62,9 @@ The chapter covers the following key steps:
 
 5. **Normalization**:
     - Scaling features to a specific range (typically [0, 1]) to ensure consistent input values for machine learning models.
-![image](https://github.com/user-attachments/assets/130cc52b-5715-43b6-8efa-7b29f233daf7)
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/130cc52b-5715-43b6-8efa-7b29f233daf7" alt="Image" width="400">
+</div>
 
 6. **Standardization**:
     - Transforming features to have a mean of 0 and a standard deviation of 1, which is crucial for algorithms like SVM and neural networks.
@@ -98,7 +100,9 @@ Mid-level processing includes the following steps:
     
 5. **Multi-Modal Fusion**:
     - Combine data from different sources (e.g., combining video, motion, and physiological data) to enhance model robustness and accuracy. Multi-modal fusion can be performed in both early and late stages of processing.
-<img src="https://github.com/user-attachments/assets/8bc139c1-3eea-4c39-ab29-bf3f3eeaca09" alt="Multimodal Fusion" width="400" height="300">
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/8bc139c1-3eea-4c39-ab29-bf3f3eeaca09" alt="Multimodal Fusion" width="400">
+</div>
 
 
 
