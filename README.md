@@ -434,6 +434,56 @@ To set up the required Python libraries for this project, follow these steps:
    pip install -r Requirements.txt
 
 
+## Cloning and Installation
+
+To clone and install this project, follow these steps:
+
+1. **Clone the Repository**:
+
+   ```bash
+   git clone https://github.com/SeyedMuhammadHosseinMousavi/Comprehensive-Machine-Learning-Techniques-Metrics-Classifiers-and-Evaluation.git
+
+
+
+
+## Usage
+
+After cloning the repository and installing the required dependencies, you can run the Python scripts to perform various machine learning tasks.
+
+### Steps to Use:
+
+1. **Prepare the Dataset**:
+
+   - Ensure your dataset is placed in the `Small Dataset/` folder. The project assumes that the required dataset files are located in this directory.
+   - The dataset should be in a format supported by the project (e.g., CSV, BVH files). You can modify the script to point to your specific dataset if needed.
+
+2. **Run the Python Scripts**:
+
+   You can execute different Python files for specific tasks.
+
+
+## Datasets
+
+This project utilizes two key datasets for emotion recognition tasks, combining **physiological data** and **body motion data**. Below is a description of each dataset and links to access them.
+
+### 1. Physiological Dataset
+
+The **VR Eyes & Emotions Dataset (VREED)** is used to analyze physiological responses in various emotional states. It includes eye-tracking data collected while participants were exposed to different stimuli, allowing for emotion recognition based on physiological signals.
+
+- **Link to Dataset**: [Kaggle - VR Eyes & Emotions Dataset (VREED)](https://www.kaggle.com/datasets/lumaatabbaa/vr-eyes-emotions-dataset-vreed)
+- **Data Content**:
+  - Eye-tracking signals recorded in virtual reality environments.
+  - Emotion labels corresponding to different emotional states.
+
+
+### 2. Body Motion Dataset
+
+The **Body Motion Dataset for Emotion Recognition** focuses on capturing human motion during emotional states. The dataset contains body motion sequences that can be used to train models to recognize emotions based on movement patterns.
+
+- **Link to Dataset**: [GitHub - Online Motion Style Transfer Repository](https://github.com/tianxintao/Online-Motion-Style-Transfer)
+- **Data Content**:
+  - Motion capture sequences of body movements under different emotional states.
+  - Labels for various emotions based on motion data.
 
 
 
@@ -448,4 +498,5 @@ Contributions are welcome! If you find a bug or have a feature request, please o
 This project is licensed under the Creative Commons Zero v1.0 Universal license (CC0 1.0) – see the [LICENSE](LICENSE) file for details.
 You can copy, modify, and distribute this work, even for commercial purposes, all without asking permission.
 
+#MachineLearning #Python #Classification #EmotionRecognition #EvaluationMetrics #DataScience #XGBoost #SVM #RandomForest #DeepLearning #AI #PhysiologicalData #BodyMotionData #FeatureSelection #DataVisualization #KaggleDataset #OpenSource #DataAnalysis #NeuralNetworks #CrossValidation #Boosting #ModelEvaluation
 
