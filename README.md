@@ -1,6 +1,4 @@
 # Comprehensive-Machine-Learning-Techniques-Metrics-Classifiers-and-Evaluation
-# Comprehensive Machine Learning Techniques: Metrics, Classifiers, and Evaluation
-
 ## Overview
 
 This repository provides a structured approach to implementing and understanding various **machine learning techniques** across multiple stages of the ML pipeline. It includes essential aspects such as **data preprocessing**, **feature extraction**, **classifier implementation**, and **evaluation metrics**.
@@ -100,7 +98,12 @@ Mid-level processing includes the following steps:
     
 5. **Multi-Modal Fusion**:
     - Combine data from different sources (e.g., combining video, motion, and physiological data) to enhance model robustness and accuracy. Multi-modal fusion can be performed in both early and late stages of processing.
-![Multimodal Fusion ](https://github.com/user-attachments/assets/8bc139c1-3eea-4c39-ab29-bf3f3eeaca09)
+<img src="https://github.com/user-attachments/assets/8bc139c1-3eea-4c39-ab29-bf3f3eeaca09" alt="Multimodal Fusion" width="400" height="300">
+
+
+
+
+
 
 ### Importance of Mid-Level Processing:
 
