@@ -1,4 +1,4 @@
-# Comprehensive-Machine-Learning-Techniques-Metrics-Classifiers-and-Evaluation (on ody motion data)
+# Comprehensive-Machine-Learning-Techniques-Metrics-Classifiers-and-Evaluation (on body motion data/modality)
 ## Overview 
 
 This repository provides a structured approach to implementing and understanding various **machine learning techniques** across multiple stages of the ML pipeline. It includes essential aspects such as **data preprocessing**, **feature extraction**, **classifier implementation**, and **evaluation metrics**. Modalities are body motion or body tracking data plus Galvanic Skin Response (GSR) data. But, GSR is only used for multi-modal fusion task.
