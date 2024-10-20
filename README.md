@@ -40,6 +40,10 @@ The project is broken down into the following main chapters:
 <div align="center">
     <img src="https://github.com/user-attachments/assets/6fd80784-cfc1-479b-9c28-520548b5589d" alt="Image" width="600">
 </div>
+## Slides
+
+This project includes detailed slides that cover the concepts, techniques, and findings presented in the code. These slides are available in both **PPT** and **PDF** formats, making them easy to use for presentations or further study.
+
 
 ---
 
