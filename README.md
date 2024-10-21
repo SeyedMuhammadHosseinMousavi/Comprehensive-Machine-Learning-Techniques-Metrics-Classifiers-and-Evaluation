@@ -162,10 +162,10 @@ Key components of data understanding include **feature analysis**, **correlation
     <img src="https://github.com/user-attachments/assets/321e618a-661b-402f-bd4a-3312e676c983" alt="Image" width="400">
 </div>
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/b603fea2-9c22-490c-9060-1ad3a20a8219" alt="Image" width="400">
+    <img src="https://github.com/user-attachments/assets/b603fea2-9c22-490c-9060-1ad3a20a8219" alt="Image" width="600">
 </div>
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/f45d0406-7160-411c-b1ba-66523e367ead" alt="Image" width="400">
+    <img src="https://github.com/user-attachments/assets/f45d0406-7160-411c-b1ba-66523e367ead" alt="Image" width="500">
 </div>
 
 
