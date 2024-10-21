@@ -209,7 +209,7 @@ This chapter covers a wide range of metrics for both **binary** and **multiclass
     - A summary table that shows the correct and incorrect predictions across all classes. It provides **True Positives (TP)**, **False Positives (FP)**, **True Negatives (TN)**, and **False Negatives (FN)**, which are the building blocks for many other metrics.
 
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/cc743087-16e0-4e8b-b258-7a33bfd4a539" alt="Image" width="400">
+    <img src="https://github.com/user-attachments/assets/cc743087-16e0-4e8b-b258-7a33bfd4a539" alt="Image" width="800">
 </div>
 
 
