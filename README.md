@@ -284,7 +284,7 @@ The chapter covers various types of **evaluation plots**, each offering a unique
     - Displays the distribution of predicted probabilities across different classes. This plot provides insights into the certainty of predictions and shows how confident the model is in its predictions for each class.
 
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/eb9a4dd2-3a42-4abf-a422-2925b7c19118" alt="Image" width="600">
+    <img src="https://github.com/user-attachments/assets/eb9a4dd2-3a42-4abf-a422-2925b7c19118" alt="Image" width="800">
 </div>
 
 
