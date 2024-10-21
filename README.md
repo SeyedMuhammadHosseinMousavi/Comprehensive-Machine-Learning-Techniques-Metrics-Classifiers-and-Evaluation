@@ -153,7 +153,7 @@ Key components of data understanding include **feature analysis**, **correlation
 3. **Feature Correlation by Regression**:
     - Apply regression techniques to investigate how features interact with the target variable. This can help you prioritize which features to focus on during the modeling process.
     <div align="center">
-    <img src="https://github.com/user-attachments/assets/6b951edb-a4de-48de-a0dd-0b030ee43500" alt="Image" width="400">
+    <img src="https://github.com/user-attachments/assets/6b951edb-a4de-48de-a0dd-0b030ee43500" alt="Image" width="600">
 </div>
 
 4. **Feature Importance**:
