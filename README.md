@@ -1,4 +1,4 @@
-# Comprehensive-Machine-Learning-Techniques-Metrics-Classifiers-and-Evaluation (on emotional body motion data/modality)
+# Comprehensive Machine Learning Techniques (on emotional body motion data/modality)
 
 
 ## Overview 
