@@ -1,5 +1,6 @@
 # Comprehensive Machine Learning Techniques (on emotional body motion data/modality)
 
+August 2024 / Lugano / Switzerland
 
 ## Overview 
 
